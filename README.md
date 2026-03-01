@@ -97,8 +97,6 @@ The system:
 
 ---
 
----
-
 ## Future Improvements
 
 While the current system demonstrates a complete RAG-based interview simulator using Endee as the vector database, several enhancements can be made:
