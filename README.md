@@ -1,3 +1,16 @@
+## HireReady – RAG-Based AI Interview Simulator
+
+This fork extends Endee by building a Retrieval-Augmented Generation (RAG) powered AI Interview Simulator.
+
+The project implementation is located inside the `hire_ready/` directory.
+
+See `hire_ready/README.md` for:
+- Project overview
+- System design
+- How Endee is used
+- Setup instructions
+
+
 # Endee: High-Performance Open Source Vector Database
 
 **Endee (nD)** is a specialized, high-performance vector database built for speed and efficiency. This guide covers supported platforms, dependency requirements, and detailed build instructions using both our automated installer and manual CMake configuration.
