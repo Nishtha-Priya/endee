@@ -1,5 +1,5 @@
 # HireReady – RAG-Based AI Interview Simulator using Endee
-
+This repository is a fork of Endee and includes a project built using Endee as the vector database.
 ## Overview
 
 HireReady is a Retrieval-Augmented Generation (RAG) based AI Interview Simulator built on top of the Endee Vector Database.
