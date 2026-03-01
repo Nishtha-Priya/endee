@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+sentence-transformers
+PyPDF2
+requests
+numpy
+git+https://github.com/endee-io/endee.git
