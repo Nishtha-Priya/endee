@@ -97,6 +97,44 @@ The system:
 
 ---
 
+---
+
+## Future Improvements
+
+While the current system demonstrates a complete RAG-based interview simulator using Endee as the vector database, several enhancements can be made:
+
+### 1. Better Document Handling
+Currently, the resume and job description are stored as single embeddings.  
+Future versions can:
+- Split documents into smaller meaningful sections  
+- Store multiple embeddings per document  
+- Improve retrieval precision  
+
+### 2. Hybrid Search (Keyword + Vector)
+Combine:
+- Semantic similarity search  
+- Simple keyword matching  
+To improve retrieval relevance and control.
+
+### 3. Improved Question Accuracy
+Enhance question quality by:
+- Retrieving more relevant context  
+- Refining prompts given to the LLM  
+- Filtering out weak or unrelated results  
+
+### 4. Adaptive Interview Flow
+Extend the system to:
+- Ask follow-up questions dynamically  
+- Adjust difficulty based on previous answers  
+
+### 5. Scalable Deployment
+Deploy the full system on cloud infrastructure for:
+- Multi-user access  
+- Better performance  
+- Real-world usage  
+
+---
+
 ## How Endee Is Used
 
 Endee is the core infrastructure component of this project.
