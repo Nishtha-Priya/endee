@@ -1,7 +1,0 @@
-streamlit
-torch
-transformers
-sentence-transformers
-PyPDF2
-requests
-numpy
